@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Ctrlz]]></title>
+        <description><![CDATA[Ctrlz]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 10 Jul 2016 10:14:46 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[But presumably the robots will also be built in Asia ]]></title>
+            <description><![CDATA[<article><h1>But presumably the robots will also be built in Asia </h1><p>In the next few decades, about 56% of all salaried workers in Cambodia, Indonesia, the Philippines, Thailand, and Vietnam could be displaced by automation and advanced technologies, such as 3D printing. That's the conclusion of an extensive series of new studies by the International Labour Organization (ILO).</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/44900b6d34b9fac2b595ab78a9195f70/croprotate.jpg?cropheight=843&cropwidth=1500&degrees=0&input=https%3A%2F%2Fqzprod.files.wordpress.com%2F2015%2F12%2F412008.jpg%3Fquality%3D80%26strip%3Dall%26w%3D1500&x=0&y=0"></article>]]></description>
+            <link>http://qz.com/727102/robots-are-set-to-take-the-jobs-of-millions-of-asian-workers-in-the-coming-years/</link>
+            <guid isPermaLink="false">f774db63-1a62-49a9-b5de-507a5574aa8c</guid>
+            <pubDate>Sun, 10 Jul 2016 10:14:44 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
