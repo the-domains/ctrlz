@@ -1,14 +1,26 @@
-layout_spectrum: 0.4203722
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.8738583
 color:
-  lightness: 0.4911126
-  brandStrength: 0.7133048
   saturation: 0.219665
-  rhythmicContrast: 0.2731157
+  brandStrength: 0.7133048
+  lightness: 1
   brandColors:
     - '#E0FBFC'
     - '#C2DFE3'
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+  rhythmicContrast: 0.2731157
+layout_spectrum: 0.4203722
 name: Ctrlz
