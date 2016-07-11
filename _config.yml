@@ -10,9 +10,8 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.8064516
 color:
-  saturation: 0.219665
+  saturation: 0.1971326
   brandStrength: 0.7133048
   lightness: 0.7867383
   brandColors:
@@ -21,6 +20,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  rhythmicContrast: 0.2731157
+  rhythmicContrast: 0.6146954
+typography_spectrum: 0.8064516
 layout_spectrum: 0.4203722
 name: Ctrlz
