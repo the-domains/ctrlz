@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 typography_spectrum: 0.8064516
 color:
   saturation: 0.219665
   brandStrength: 0.7133048
-  rhythmicContrast: 0.2731157
+  lightness: 0.7867383
   brandColors:
     - '#E0FBFC'
     - '#C2DFE3'
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  lightness: 1
+  rhythmicContrast: 0.2731157
 layout_spectrum: 0.4203722
 name: Ctrlz
